@@ -12,7 +12,7 @@ The cache control header is set up as this: `Cache-Control: public, max-age=3153
 package main
 
 import (
-    "github.com/theosomefactory/goji-static"
+    "github.com/patrickdappollonio/goji-static"
     "github.com/zenazn/goji"
 )
 
